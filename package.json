@@ -1,0 +1,19 @@
+{
+  "name": "DasTiles",
+  "version": "0.0.0",
+  "description": "RPG tile engine supporting both the front and back ends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrmakeit/DasTiles.git"
+  },
+  "author": "Blixa Morgan <blixa@projectmakeit.com>",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/mrmakeit/DasTiles/issues"
+  },
+  "homepage": "https://github.com/mrmakeit/DasTiles"
+}
