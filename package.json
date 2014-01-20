@@ -16,7 +16,7 @@
     "url": "https://github.com/mrmakeit/DasTiles/issues"
   },
   "homepage": "https://github.com/mrmakeit/DasTiles",
-  "engine": "node 0.10.22",
+  "engine": "node 0.10.24",
   "dependencies": {
     "gulp": "~3.4.0",
     "gulp-coffee": "~1.2.5"
