@@ -4,7 +4,7 @@
   "description": "RPG tile engine supporting both the front and back ends",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/mrmakeit/DasTiles/issues"
   },
-  "homepage": "https://github.com/mrmakeit/DasTiles"
+  "homepage": "https://github.com/mrmakeit/DasTiles",
+  "engine": "node 0.10.22",
+  "dependencies": {
+    "gulp": "~3.4.0",
+    "gulp-coffee": "~1.2.5"
+  }
 }
